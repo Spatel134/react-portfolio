@@ -1,4 +1,5 @@
 import React from "react";
+import profileImg from "../../assets/img/Sahil-Patel.jpeg"
 // import resume from "../../assets/resume.pdf";
 
 const About = () => {
@@ -14,7 +15,7 @@ const About = () => {
           <div className="col-12">
             <img
               className="img-fluid float-left mr-4"
-              src="./Assets/Images/Sahil-Patel.jpeg"
+              src={profileImg}
               alt="Picture of Sahil Patel"
             />
             <p>Hello, my name is Sahil Patel.</p>

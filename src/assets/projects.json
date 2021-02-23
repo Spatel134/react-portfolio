@@ -1,6 +1,6 @@
 [
   {
-    "title": "Weather-Dashboard",
+    "title": "Weather Dashboard",
     "deployedURL": "https://spatel134.github.io/weather-dashboard/",
     "githubRepoURL": "https://github.com/Spatel134/weather-dashboard.git",
     "description": "Weather-Dashboard, check your local weather with the 5-day forecast included.",
@@ -9,48 +9,48 @@
     "technologiesUsed": ["JavaScript", "Bootstrap CSS", "HTML"]
   },
   {
-    "title": "Weather-Dashboard",
-    "deployedURL": "https://spatel134.github.io/weather-dashboard/",
-    "githubRepoURL": "https://github.com/Spatel134/weather-dashboard.git",
-    "description": "Weather-Dashboard, check your local weather with the 5-day forecast included.",
-    "imageURL": "weather-dashboard.png",
+    "title": "Food Service Log Manager",
+    "deployedURL": "https://andrediop.github.io/Collaborative-project/",
+    "githubRepoURL": "https://github.com/Spatel134/Collaborative-project.git",
+    "description": "The Food Service Log Manager seeks to cut down on the amount of paperwork required for food service establishments and simplify the process of taking, storing, and indexing temperature logs.",
+    "imageURL": "food-log.png",
     "gifURL": "",
     "technologiesUsed": ["JavaScript", "Bootstrap CSS", "HTML"]
   },
   {
-    "title": "Weather-Dashboard",
-    "deployedURL": "https://spatel134.github.io/weather-dashboard/",
-    "githubRepoURL": "https://github.com/Spatel134/weather-dashboard.git",
-    "description": "Weather-Dashboard, check your local weather with the 5-day forecast included.",
-    "imageURL": "weather-dashboard.png",
+    "title": "Fresh Dev",
+    "deployedURL": "https://fresh-dev.herokuapp.com/",
+    "githubRepoURL": "https://github.com/Spatel134/fresh-dev.git",
+    "description": "Fresh-Dev is an online platform for students to showcase their work and portfolios for recruiters and hiring managers to view and search for the base on specific programming languages.",
+    "imageURL": "fresh-dev-homepage.png",
+    "gifURL": "",
+    "technologiesUsed": ["JavaScript", "Bootstrap CSS", "HTML, Handlebars"]
+  },
+  {
+    "title": "Coding Quiz",
+    "deployedURL": "https://spatel134.github.io/quiz/",
+    "githubRepoURL": "https://github.com/Spatel134/quiz.git",
+    "description": "Coding Quiz test your knowledge and see how well you know to code.",
+    "imageURL": "code-quiz.png",
     "gifURL": "",
     "technologiesUsed": ["JavaScript", "Bootstrap CSS", "HTML"]
   },
   {
-    "title": "Weather-Dashboard",
-    "deployedURL": "https://spatel134.github.io/weather-dashboard/",
-    "githubRepoURL": "https://github.com/Spatel134/weather-dashboard.git",
-    "description": "Weather-Dashboard, check your local weather with the 5-day forecast included.",
-    "imageURL": "weather-dashboard.png",
+    "title": "Employee Directory",
+    "deployedURL": "https://spatel134.github.io/employee-directory/",
+    "githubRepoURL": "https://github.com/Spatel134/employee-directory.git",
+    "description": "Employee-Directory is a single-page React JavaScript base. You can view employees and sort by name or date of birth and have the abilities to search by first or last name.",
+    "imageURL": "employee-directory.png",
     "gifURL": "",
-    "technologiesUsed": ["JavaScript", "Bootstrap CSS", "HTML"]
+    "technologiesUsed": ["React", "JavaScript", "Bootstrap CSS", "HTML"]
   },
   {
-    "title": "Weather-Dashboard",
+    "title": "PortFolio",
     "deployedURL": "https://spatel134.github.io/weather-dashboard/",
-    "githubRepoURL": "https://github.com/Spatel134/weather-dashboard.git",
-    "description": "Weather-Dashboard, check your local weather with the 5-day forecast included.",
-    "imageURL": "weather-dashboard.png",
+    "githubRepoURL": "https://github.com/Spatel134/react-portfolio.git",
+    "description": "Portfolio created with React.",
+    "imageURL": "portfolio-page.png",
     "gifURL": "",
-    "technologiesUsed": ["JavaScript", "Bootstrap CSS", "HTML"]
-  },
-  {
-    "title": "Weather-Dashboard",
-    "deployedURL": "https://spatel134.github.io/weather-dashboard/",
-    "githubRepoURL": "https://github.com/Spatel134/weather-dashboard.git",
-    "description": "Weather-Dashboard, check your local weather with the 5-day forecast included.",
-    "imageURL": "weather-dashboard.png",
-    "gifURL": "",
-    "technologiesUsed": ["JavaScript", "Bootstrap CSS", "HTML"]
+    "technologiesUsed": ["React","JavaScript", "Bootstrap CSS", "HTML"]
   }
 ]

@@ -4,13 +4,13 @@ import { HashRouter as Router, Link } from "react-router-dom";
 
 const Jumbotron = () => {
   return (
-    <div id="jumbotron" className="container">
-      <div className="row ">
+    <div id="jumbotron" className="container ">
+      <div className="row justify-content-center ">
         <div className="col">
           <h1>Full Stack Developer</h1>
           <h5>Georgia Tech Coding Bootcamp</h5>
           <div className="row justify-content-center">
-            <div className="col-10">
+            <div className="col-10 mt-6">
               <h4>
                 Hello, my name is Sahil and I'm a junior software engineer leveraging my business knowledge and finance
                 experience to build better business applications.
