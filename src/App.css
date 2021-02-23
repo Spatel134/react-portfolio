@@ -1,5 +1,10 @@
+#jumbotron{
+  background-color: #7e7e7e;
+
+}
+
 body {
-  background-color: #e1e8f0;
+  background-color: #e1e8f0;  
 }
 
 /* Navbar logo style for all pages */
