@@ -3,6 +3,7 @@ import React from "react";
 const Footer = () => {
   return (
     <>
+    <div className = "footer mt-auto">
       <div className="row copyright-border">&nbsp;</div>
       <div className="row copyright">
         <div className="text-left my-2 w-100 col-6">&#x24B8; 2020 Copyright</div>
@@ -17,6 +18,7 @@ const Footer = () => {
             <img width="30" height="30" src="./Assets/Images/mailButton.png" />
           </a>
         </div>
+      </div>
       </div>
     </>
   );
