@@ -1,6 +1,6 @@
 import React from "react";
 import profileImg from "../../assets/img/Sahil-Patel.jpeg"
-// import resume from "../../assets/resume.pdf";
+import resume from "../../assets/resume.pdf";
 
 const About = () => {
   return (
@@ -42,7 +42,7 @@ const About = () => {
               to my
               <a href="https://www.linkedin.com/in/sahil-patel-93a0972b">LinkedIn</a>
               and
-              {/* <a href="./Assets/Resume (NA).pdf">Resume</a>. */}
+              <a href={resume}>Resume</a>.
             </p>
           </div>
         </div>

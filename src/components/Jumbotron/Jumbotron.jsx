@@ -4,7 +4,7 @@ import { HashRouter as Router, Link } from "react-router-dom";
 
 const Jumbotron = () => {
   return (
-    <div id="jumbotron" className="container ">
+    <div id="jumbotron" className="container border">
       <div className="row justify-content-center ">
         <div className="col">
           <h1>Full Stack Developer</h1>
