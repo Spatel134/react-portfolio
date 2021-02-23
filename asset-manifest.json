@@ -1,28 +1,31 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.8c2ea151.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.ca59ceee.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.ca59ceee.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.63d7eb5e.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.570d08d3.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.570d08d3.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.fae9f92b.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.fae9f92b.js.map",
     "static/js/2.e3d52281.chunk.js": "/react-portfolio/static/js/2.e3d52281.chunk.js",
     "static/js/2.e3d52281.chunk.js.map": "/react-portfolio/static/js/2.e3d52281.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "static/css/main.8c2ea151.chunk.css.map": "/react-portfolio/static/css/main.8c2ea151.chunk.css.map",
+    "static/css/main.63d7eb5e.chunk.css.map": "/react-portfolio/static/css/main.63d7eb5e.chunk.css.map",
     "static/js/2.e3d52281.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.e3d52281.chunk.js.LICENSE.txt",
     "static/media/GitHub_Logo_White.png": "/react-portfolio/static/media/GitHub_Logo_White.6149aa5c.png",
+    "static/media/about-page.png": "/react-portfolio/static/media/about-page.afa8f129.png",
     "static/media/code-quiz.png": "/react-portfolio/static/media/code-quiz.bcc6beec.png",
+    "static/media/contact-page.png": "/react-portfolio/static/media/contact-page.ae156948.png",
     "static/media/employee-directory.png": "/react-portfolio/static/media/employee-directory.70a384d6.png",
     "static/media/food-log.png": "/react-portfolio/static/media/food-log.b0b51ff4.png",
     "static/media/fresh-dev-homepage.png": "/react-portfolio/static/media/fresh-dev-homepage.904320ba.png",
     "static/media/mailButton.png": "/react-portfolio/static/media/mailButton.3c734ec1.png",
     "static/media/portfolio-page.png": "/react-portfolio/static/media/portfolio-page.6c18425a.png",
+    "static/media/resume.9472d9a7.pdf": "/react-portfolio/static/media/resume.9472d9a7.pdf",
     "static/media/weather-dashboard.png": "/react-portfolio/static/media/weather-dashboard.3936f388.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fae9f92b.js",
     "static/js/2.e3d52281.chunk.js",
-    "static/css/main.8c2ea151.chunk.css",
-    "static/js/main.ca59ceee.chunk.js"
+    "static/css/main.63d7eb5e.chunk.css",
+    "static/js/main.570d08d3.chunk.js"
   ]
 }
